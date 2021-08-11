@@ -1,5 +1,5 @@
 # case_studies
 
-Above are the case studies I had worked while pursuing an online course in ML. 
+This repo has all the assignments I have done for the course appliesaicourse.com
 
 Please look at the top left corner in pdf files for the exact date of my work. 
